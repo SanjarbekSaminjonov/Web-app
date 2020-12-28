@@ -1,2 +1,2 @@
-# Web-app
+# Web app
 Online dictionary
